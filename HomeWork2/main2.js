@@ -134,19 +134,25 @@
 // - Користувач вводить або має два числа.
 //     Потрібно знайти та вивести максимальне число з тих двох .
 //     Також потрібно врахувати коли введені рівні числа.
+//
+// let first=prompt("Перше число");
+// let second=prompt("Друге число");
+// if (first>second){
+//     console.log("Перше число більше" +" "+ first)
+// }
+// else if (first<second){
+//     console.log("Друге число більше" +" "+ second)
+// }
+// else if (first===second){
+//     console.log("Значення рівні"+" "+first +"="+second)
+// }
+// else {
+//     console.log("введіть число")
+// }
+//
 
-let first=prompt("Перше число");
-let second=prompt("Друге число");
-if (first>second){
-    console.log("Перше число більше" +" "+ first)
-}
-else if (first<second){
-    console.log("Друге число більше" +" "+ second)
-}
-else if (first===second){
-    console.log("Значення рівні"+" "+first +"="+second)
-}
-else {
-    console.log("введіть число")
-}
+// - є змінна х, яка може прийняти будь-яке значення (стрінг, число, undefined, null  і тд включно). Напишіть код який,
+//     за допомоги  оператора || буде присвоювати змінній х значення "default"  якщо значення змінної х являється falsy (хибноподібні, тобто приводиться до false)
 
+// let x=prompt("будь-яке значення") || "default";
+// console.log(x);
