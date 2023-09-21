@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ec1328-8a9b-4cfa-8438-6d4b5abe31a7" name="Changes" comment="HW3 complete">
-      <change beforePath="$PROJECT_DIR$/JS-HomeWork1.html" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1/JS-HomeWork1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork1/main.js" afterDir="false" />
+    <list default="true" id="84ec1328-8a9b-4cfa-8438-6d4b5abe31a7" name="Changes" comment="HW1 переніс в окрему папку">
+      <change afterPath="$PROJECT_DIR$/HomeWork4/HW4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork4/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +50,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/HomeWork1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +74,8 @@
       <workItem from="1694713780902" duration="598000" />
       <workItem from="1694762978112" duration="8233000" />
       <workItem from="1695132983766" duration="10734000" />
-      <workItem from="1695148224951" duration="2714000" />
+      <workItem from="1695148224951" duration="2756000" />
+      <workItem from="1695219819556" duration="9988000" />
     </task>
     <task id="LOCAL-00001" summary="unit">
       <option name="closed" value="true" />
@@ -126,7 +133,23 @@
       <option name="project" value="LOCAL" />
       <updated>1695202955561</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="HW1 переніс в окрему папку">
+      <option name="closed" value="true" />
+      <created>1695203185896</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695203185896</updated>
+    </task>
+    <task id="LOCAL-00009" summary="HW1 переніс в окрему папку">
+      <option name="closed" value="true" />
+      <created>1695203197864</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695203197864</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +174,7 @@
     <MESSAGE value="HW2+декілька завдань" />
     <MESSAGE value="HW2 complete" />
     <MESSAGE value="HW3 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3 complete" />
+    <MESSAGE value="HW1 переніс в окрему папку" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW1 переніс в окрему папку" />
   </component>
 </project>
